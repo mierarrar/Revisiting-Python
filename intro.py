@@ -36,3 +36,6 @@ strings.append('world')
 print(numbers)
 print(strings)
 print("The second name on the names list is %s" % second_name)
+
+my_name = "Meera"
+print("Hello and welcome " + my_name + "!")
